@@ -1,2 +1,5 @@
-# dio-azure-lab3
-Lab Azure - Resumo - DIO
+# Azure - Introdução a Interface
+## Resumo
+* A orientadora explorou os detalhes da criação de uma Maquina Virtual, relembrando o serviço de IaaS, já que fica por conta do usuário configurar cada detalhe da máquina, desde rede, memória, sistema operacional entre outras opções... A criação de uma Máquina Virtual é sim um processo complexo com muitas etapas e requer conhecimento e consciência a respeito do que é feito. Existem outros tipos de serviços como o PaaS e o SaaS que extraem um pouco da complexidade e deixam a cargo da provedora tomar certas decisões, como o Sistema Operacional por exemplo, esses serviços são mais voltados a hospedagem do aplicativo final, permitindo que o usuário faça menos escolhas para alcançar seu objetivo.
+* Também tem a opção de utilizar as linhas de código para criar o serviço, porém é algo que não será tão intuitivo para um novo usuário. As linhas de código permitem agilizar o processor e criar diversos serviços em pouco tempo, mas para que isso seja possível é necessário ter um nível de conhecimento e experiência elevadas sobre o que está sendo feito. Sendo assim o portal é uma boa porta de entrada a novos profissionais da Computação em Nuvem.
+* Algo muito bacana disponibilizado pelo Azure é a planilha de custos em Excel, que pode facilitar muito a vida de um gerente para escolher quais serviços serão utilizados. Tanto a calculadora do Azure quanto a Planilha gerada devem ser analisadas atentamente para não receber surpresas ao final do mês.
